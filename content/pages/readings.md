@@ -13,48 +13,532 @@ Readings by Session
 
 The table below provides information on the course's lecture (L), recitation (R), and quiz (Q) sessions.
 
-| SES # | TOPICS | READINGS |
-| --- | --- | --- |
-| L1 | Introduction: Classical and Quantum Mechanics | Chapter 1 |
-| L2 | Probability Amplitudes and Development of Quanta | Chapters 2 and 3 |
-| R1 | Fourier Transforms / MATLAB® | &nbsp; |
-| L3 | Dispersion, Wavepackets |  {{< br >}}{{< br >}} Chapter 4 {{< br >}}{{< br >}}  |
-| L4 | Operators and Ehrenfest's Theorem | Chapter 5 |
-| R2 | Examples of Operators and Ehrenfest's Theorem | Chapter 5 |
-| L5 | Eigenfunctions, Eigenvalues, Superposition |  {{< br >}}{{< br >}} Chapter 6 {{< br >}}{{< br >}}  |
-| L6 | Finite Well and 1D Box | Chapters 7 and 8 |
-| L7 | Tunneling Barriers |  {{< br >}}{{< br >}} Chapters 7 and 8 {{< br >}}{{< br >}}  |
-| L8 | Simple Harmonic Oscillator | Chapters 9 and 10 |
-| R3 | Tunneling Examples, STM, SHO | Chapters 7 and 8 |
-| L9 | Raising and Lowering Operators |  {{< br >}}{{< br >}} Chapter 10 {{< br >}}{{< br >}}  |
-| L10 | LC Circuit & SHO Wavepackets | Chapters 11 and 12 |
-| L11 | WKB Approximation, Variational Method | Chapters 13, 14, and 15 |
-| L12 | Finite Basis Set Approximation | Chapter 16 |
-| Q1 | Quiz 1 | &nbsp; |
-| L13 | Two-level System (dc drive) | Chapter 17 |
-| L14 | Two-level System (cont.) | Chapter 17 |
-| R4 | Examples of Two-level Systems | Chapters 17-19 |
-| L15 | Two-level System: Dynamic Drive |  {{< br >}}{{< br >}} Chapter 18 {{< br >}}{{< br >}}  |
-| L16 | Coupled Systems | Chapter 19 |
-| R5 | Two-level Examples and Coupled System | Chapter 20 |
-| L17 | Coupled Systems |  {{< br >}}{{< br >}} Chapter 23 {{< br >}}{{< br >}}  |
-| L18 | 2D and 3D; Density of States | Chapter 23 |
-| R6 | Examples and Periodic Boundary Conditions | &nbsp; |
-| L19 | Quantization of the E and M Fields | Chapters 21 and 22 |
-| Q2 | Quiz 2 | &nbsp; |
-| L20 | Fermi's Golden Rule | Chapter 24 |
-| L21 | Statistical Physics | Chapter 25 |
-| R7 | Examples of Statistical Physics | Chapter 26 |
-| L22 | Statistical Physics II |  {{< br >}}{{< br >}} Chapter 26 {{< br >}}{{< br >}}  |
-| R8 | Thermionic Emission | &nbsp; |
-| L23 | Metals and Semiconductors I | Chapter 27 |
-| L24 | Metals and Semiconductors II | Chapter 27 |
-| R9 | Examples of Metals and Semiconductors | &nbsp; |
-| L25 | H-Atom 1 | Chapter 28 |
-| L26 | H-Atom II | Chapter 29 |
-| R10 | H-Atom Examples | Chapter 30 |
-| L27 | Summary | &nbsp; |
-| &nbsp; | Final Exam |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction: Classical and Quantum Mechanics
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L2
+{{< tdclose >}}
+{{< tdopen >}}
+Probability Amplitudes and Development of Quanta
+{{< tdclose >}}
+{{< tdopen >}}
+Chapters 2 and 3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R1
+{{< tdclose >}}
+{{< tdopen >}}
+Fourier Transforms / MATLAB®
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L3
+{{< tdclose >}}
+{{< tdopen >}}
+Dispersion, Wavepackets
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Chapter 4
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L4
+{{< tdclose >}}
+{{< tdopen >}}
+Operators and Ehrenfest's Theorem
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R2
+{{< tdclose >}}
+{{< tdopen >}}
+Examples of Operators and Ehrenfest's Theorem
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L5
+{{< tdclose >}}
+{{< tdopen >}}
+Eigenfunctions, Eigenvalues, Superposition
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Chapter 6
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L6
+{{< tdclose >}}
+{{< tdopen >}}
+Finite Well and 1D Box
+{{< tdclose >}}
+{{< tdopen >}}
+Chapters 7 and 8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L7
+{{< tdclose >}}
+{{< tdopen >}}
+Tunneling Barriers
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Chapters 7 and 8
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L8
+{{< tdclose >}}
+{{< tdopen >}}
+Simple Harmonic Oscillator
+{{< tdclose >}}
+{{< tdopen >}}
+Chapters 9 and 10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R3
+{{< tdclose >}}
+{{< tdopen >}}
+Tunneling Examples, STM, SHO
+{{< tdclose >}}
+{{< tdopen >}}
+Chapters 7 and 8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L9
+{{< tdclose >}}
+{{< tdopen >}}
+Raising and Lowering Operators
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Chapter 10
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L10
+{{< tdclose >}}
+{{< tdopen >}}
+LC Circuit & SHO Wavepackets
+{{< tdclose >}}
+{{< tdopen >}}
+Chapters 11 and 12
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L11
+{{< tdclose >}}
+{{< tdopen >}}
+WKB Approximation, Variational Method
+{{< tdclose >}}
+{{< tdopen >}}
+Chapters 13, 14, and 15
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L12
+{{< tdclose >}}
+{{< tdopen >}}
+Finite Basis Set Approximation
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 16
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Q1
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L13
+{{< tdclose >}}
+{{< tdopen >}}
+Two-level System (dc drive)
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 17
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L14
+{{< tdclose >}}
+{{< tdopen >}}
+Two-level System (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 17
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R4
+{{< tdclose >}}
+{{< tdopen >}}
+Examples of Two-level Systems
+{{< tdclose >}}
+{{< tdopen >}}
+Chapters 17-19
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L15
+{{< tdclose >}}
+{{< tdopen >}}
+Two-level System: Dynamic Drive
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Chapter 18
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L16
+{{< tdclose >}}
+{{< tdopen >}}
+Coupled Systems
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 19
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R5
+{{< tdclose >}}
+{{< tdopen >}}
+Two-level Examples and Coupled System
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L17
+{{< tdclose >}}
+{{< tdopen >}}
+Coupled Systems
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Chapter 23
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L18
+{{< tdclose >}}
+{{< tdopen >}}
+2D and 3D; Density of States
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 23
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R6
+{{< tdclose >}}
+{{< tdopen >}}
+Examples and Periodic Boundary Conditions
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L19
+{{< tdclose >}}
+{{< tdopen >}}
+Quantization of the E and M Fields
+{{< tdclose >}}
+{{< tdopen >}}
+Chapters 21 and 22
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Q2
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L20
+{{< tdclose >}}
+{{< tdopen >}}
+Fermi's Golden Rule
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 24
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L21
+{{< tdclose >}}
+{{< tdopen >}}
+Statistical Physics
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 25
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R7
+{{< tdclose >}}
+{{< tdopen >}}
+Examples of Statistical Physics
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 26
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L22
+{{< tdclose >}}
+{{< tdopen >}}
+Statistical Physics II
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Chapter 26
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R8
+{{< tdclose >}}
+{{< tdopen >}}
+Thermionic Emission
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L23
+{{< tdclose >}}
+{{< tdopen >}}
+Metals and Semiconductors I
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 27
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L24
+{{< tdclose >}}
+{{< tdopen >}}
+Metals and Semiconductors II
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 27
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R9
+{{< tdclose >}}
+{{< tdopen >}}
+Examples of Metals and Semiconductors
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L25
+{{< tdclose >}}
+{{< tdopen >}}
+H-Atom 1
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 28
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L26
+{{< tdclose >}}
+{{< tdopen >}}
+H-Atom II
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 29
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R10
+{{< tdclose >}}
+{{< tdopen >}}
+H-Atom Examples
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 30
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L27
+{{< tdclose >}}
+{{< tdopen >}}
+Summary
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Recommended Readings
 --------------------
