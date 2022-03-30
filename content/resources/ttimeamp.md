@@ -7,6 +7,7 @@ description: Part of a tutorial which describes how, given an initial wave funct
   the expansion.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-728-applied-quantum-and-statistical-physics-fall-2006/eb5413a491e7fbf7b2d733cb1d72cde6_ttimeamp.pdf
 file_type: application/pdf
+parent_uid: 2c4132ae-7bf9-4900-bc93-263cd831948d
 resourcetype: Document
 title: ttimeamp.pdf
 uid: eb5413a4-91e7-fbf7-b2d7-33cb1d72cde6
